@@ -1,7 +1,4 @@
-name: Windows - LiteManager
 
-on:
-  workflow_dispatch:
 
 jobs:
   build:
